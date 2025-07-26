@@ -3,8 +3,9 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "Santana e Silva Advogados - Direito Previdenciário",
+  description:
+    "Escritório especializado em Direito Previdenciário. Aposentadorias, Auxílio Doença, Pensão por Morte, LOAS e mais. Consulta gratuita.",
   generator: "v0.dev",
 }
 
