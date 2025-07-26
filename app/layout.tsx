@@ -17,6 +17,8 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <head>
+        <title>Santana e Silva Advogados - Direito Previdenciário</title>
+        
         {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{
